@@ -1,0 +1,1 @@
+Kişisel Harcama Takip Uygulaması - React Native projesi tamamlandı
