@@ -151,22 +151,22 @@ Uygulama modern ve tutarlı bir tasarım sistemine sahiptir:
 
 ## Yeni Özellikler / New Features
 
-### ✅ Email Doğrulama / Email Validation
+###  Email Doğrulama / Email Validation
 - Email formatı kontrolü (@ sembolü, domain, uzantı vb.)
 - Detaylı hata mesajları (Türkçe ve Arapça)
 - Kayıt ve giriş ekranlarında otomatik doğrulama
 
-### ✅ Kategori Düzenleme İyileştirmeleri / Category Edit Improvements
+###  Kategori Düzenleme İyileştirmeleri / Category Edit Improvements
 - Varsayılan kategorileri düzenleme desteği
 - Kullanıcıya özel kategori override'ları
 - Gelişmiş kategori yönetimi arayüzü
 
-### ✅ IP Güvenliği / IP Security
+###  IP Güvenliği / IP Security
 - Kullanıcı IP adresi takibi
 - IP değişikliği tespiti ve uyarıları
 - Güvenlik geçmişi kaydı
 
-### ✅ Git/GitHub İş Akışı / Git/GitHub Workflow
+###  Git/GitHub İş Akışı / Git/GitHub Workflow
 - Detaylı katkıda bulunma rehberi (CONTRIBUTING.md)
 - Takım çalışması için önerilen workflow
 - Commit mesajı standartları
