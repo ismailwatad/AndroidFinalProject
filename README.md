@@ -10,6 +10,9 @@ React Native ile geliştirilmiş profesyonel bir kişisel finans yönetim uygula
 - **Öğrenci 2**: Muhammed Hazem Kabbanı – 220404931
   - Görev: Veri saklama, uygulama mantığı ve finansal hesaplamalar
 
+##  GitHub deposu:
+    https://github.com/ismailwatad/AndroidFinalProject
+
 ## Özellikler
 
 ### Temel Özellikler
